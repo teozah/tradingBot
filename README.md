@@ -1,0 +1,1 @@
+This RSI trading bot tests AAPL strategies using delayed IBKR data, entering longs at RSI 34.8 from below 32 and shorts at 71.7 from above 68, with exits between 48-52. It logs all trades to CSV including prices and RSI values while tracking daily performance metrics. Designed purely for paper trading research, it helps validate strategies before going live.
